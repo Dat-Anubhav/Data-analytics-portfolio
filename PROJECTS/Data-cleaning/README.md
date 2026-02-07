@@ -40,6 +40,12 @@ Deliverables
 
     • Processing Pipeline: google-playstore-data-cleaning.ipynb documenting the complete data cleaning and preprocessing workflow.
 
+Project Roadmap
+The output of this project (`Google-playstore-cleaned-data.csv`) serves as the primary data source for the next phase: **Exploratory Data Analysis**. 
+
+In the subsequent repository, I utilize this high-integrity data to perform deep-dive visualizations and extract market-driven business insights.
+
+
 Project Structure
     
     • google-playstore-data-cleaning.ipynb – Primary notebook containing the data transformation and preprocessing logic.
