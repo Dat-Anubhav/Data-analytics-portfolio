@@ -18,6 +18,12 @@ Key Analytical Insights:-
 
       •	Demographic Targeting: Analyzed the distribution of content ratings and "Min Age" requirements to understand how developers target different age groups.
 
+Prerequisites & Data Origin:-
+
+This analysis is performed on the high-integrity dataset generated during the **Google Play Store Data Cleaning** phase. 
+
+The preceding cleaning project was essential to standardize mixed data types, normalize units (KB/MB), and handle missing values, ensuring the statistical accuracy of the visualizations presented here.
+
 Technical Stack
       
       •	Language: Python
