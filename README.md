@@ -44,6 +44,33 @@ Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, ETL
 
 ---
 
+## Certifications
+### Professional Training
+
+#### Complete Data Analyst Bootcamp From Basics To Advanced | Udemy 
+
+Issued: Feb 2026 
+
+Credential ID: UC-85eb9791-d9c7-417b-b69d-64d670a35096 
+
+Details: 89-hour comprehensive program covering the full data lifecycle.
+
+### Technical Skills (HackerRank)
+
+#### SQL (Advanced) 
+Issued: Feb 19, 2026  | ID: 22AD5EFC0637 
+
+#### SQL (Intermediate) 
+Issued: Feb 16, 2026  | ID: A52EC420582E 
+
+#### SQL (Basic) 
+Issued: Feb 16, 2026  | ID: 7FAED6ECC6E3 
+
+#### Python (Basic) 
+Issued: Feb 19, 2026  | ID: F4FB44BF01AO
+
+---
+
 ## Analytics Workflow
 
 This portfolio follows a professional analytics workflow:
@@ -82,7 +109,10 @@ This portfolio follows a professional analytics workflow:
 ## Contact
 
 📧 **Email:** anubhavsrivastavbst@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/anubhav-srivastav-bb7969386  
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/anubhav-srivastav-bb7969386
+
+💻 **HackerRank:** https://www.hackerrank.com/profile/anubhavsrivast22
 
 ---
 
