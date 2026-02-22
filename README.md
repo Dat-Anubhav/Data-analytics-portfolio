@@ -116,5 +116,5 @@ This portfolio follows a professional analytics workflow:
 
 ---
 
-**Author:** Anubhav  
+**Author:** Anubhav Srivastav
 **Last Updated:** February 2026
